@@ -1,0 +1,9 @@
+#
+# The first event should be birth.
+# The date should match start_date in content/index.md.
+#
+"1979-06-16":
+    - headline: "🐣 I was born"
+      description: "Born in Minneapolis, MN"
+      based: "Minnesota"
+      doing: "Baby"
