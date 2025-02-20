@@ -26,6 +26,18 @@
       based: "cg"
       doing: "High school student"
 
+"1995-02-11":
+    - headline: "🏥 Hospital"
+      description: "Hospitalized for a month"
+      based: "cg"
+      doing: "Hospital and recovery"
+
+"1995-04-11":
+    - headline: "🏫 Back to school"
+      description: "Back to school after being hospitalized"
+      based: "cg"
+      doing: "High school student"
+
 "1998-06-01":
     - headline: "🎓 Gratuate High School"
       description: "Graduated from NLA"
@@ -65,14 +77,14 @@
     - headline: "👨‍💼 First Job"
       description: "Started working at Circuit City"
       based: "guider"
-      doing: "Working"
+      doing: "Working at Circuit City"
       association: "Circuit City"
 
 "2004-04-01":
     - headline: "👨‍💻 First Career Job"
       description: "Started working at O"
       based: "guider"
-      doing: "Working"
+      doing: "Working at O"
       association: "O"
 
 "2004-06-01":
