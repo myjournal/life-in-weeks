@@ -3,7 +3,173 @@
 # The date should match start_date in content/index.md.
 #
 "1979-06-16":
-    - headline: "🐣 I was born"
+    - headline: "👼 I was born"
       description: "Born in Minneapolis, MN"
-      based: "Minnesota"
+      based: "cg"
       doing: "Baby"
+
+"1983-09-01":
+    - headline: "🖼️ Preschool"
+      description: "Preschool in Mr. Harder's class"
+      based: "cg"
+      doing: "Preschool"
+
+"1984-09-01":
+    - headline: "📖 Home School"
+      description: "Homeschool at EHCS"
+      based: "cg"
+      doing: "Home school"
+
+"1994-09-01":
+    - headline: "🏫 High School"
+      description: "Started high school at NLA"
+      based: "cg"
+      doing: "High school student"
+
+"1998-06-01":
+    - headline: "🎓 Gratuate High School"
+      description: "Graduated from NLA"
+      based: "cg"
+      doing: "High school student"
+
+"1998-09-01":
+    - headline: "🏫 College"
+      description: "Started college at LeTourneau University"
+      based: "longview"
+      doing: "College Student"
+
+"2001-09-11":
+    - headline: "9/11"
+      description: "I remember walking into the student center and seeing the news on the TV, watched the second plane hit the tower."
+      based: "longview"
+      doing: "College Student"
+
+"2003-05-20":
+    - headline: "🎓 Graduate College"
+      description: "Graduated from LeTourneau University"
+      based: "longview"
+
+"2003-06-28":
+    - headline: "👰 Married"
+      description: "Married E in Longview, TX"
+      based: "longview"
+      doing: "Married"
+
+"2003-06-29":
+    - headline: "🏠 First Apartment"
+      description: "Moved into our first apartment"
+      based: "guider"
+      doing: "Married"
+
+"2003-07-01":
+    - headline: "👨‍💼 First Job"
+      description: "Started working at Circuit City"
+      based: "guider"
+      doing: "Working"
+      association: "Circuit City"
+
+"2004-04-01":
+    - headline: "👨‍💻 First Career Job"
+      description: "Started working at O"
+      based: "guider"
+      doing: "Working"
+      association: "O"
+
+"2004-06-01":
+    - headline: "🏠 Second Apartment"
+      description: "Moved into our second apartment"
+      based: "ashley"
+
+"2005-04-30":
+    - headline: "🏠 First Home"
+      description: "Bought our first home (townhome)"
+      based: "liberty"
+
+"2007-02-11":
+    - headline: "👶 First Child"
+      description: "S was born"
+      based: "liberty"
+
+"2010-01-05":
+    - headline: "👶 Second Child"
+      description: "P was born"
+      based: "liberty"
+
+"2012-03-23":
+    - headline: "👶 Third Child"
+      description: "C was born"
+      based: "liberty"
+
+"2013-07-31":
+    - headline: "🏠 Second Home"
+      description: "Bought our second home"
+      based: "ponds"
+
+
+# Trips
+"2005-10-01":
+    - headline: "🗽 NYC"
+      description: "Visited NYC for E's birthday"
+
+"2014-08-22":
+    - headline: "🏰 Disney World"
+      description: "Family vacation to Disney World"
+
+"2015-08-22":
+    - headline: "🗽 NYC"
+      description: "Visited NYC with friends"
+
+"2016-10-21":
+    - headline: "🗽 NYC"
+      description: "Visited NYC with friends"
+
+"2017-11-25":
+    - headline: "🏰 Disney World"
+      description: "Family vacation to Disney World"
+
+"2019-04-19":
+    - headline: "🏞️ Wisconsin Dells"
+      description: "Family vacation to Wisconsin Dells"
+
+"2020-11-27":
+    - headline: "🏰 Disney World"
+      description: "Family vacation to Disney World"
+
+"2021-02-21":
+    - headline: "🏖️ South Padre Island"
+      description: "South Padre Island with J"
+
+"2021-04-04":
+    - headline: "🏖️ Cocoa Beach"
+      description: "Family vacation to Cocoa Beach"
+
+"2022-11-24":
+    - headline: "🏰 Disney World"
+      description: "Family vacation to Disney World"
+
+"2024-10-13":
+    - headline: "🏰 Disney World"
+      description: "Family vacation to Disney World"
+
+
+
+
+
+
+# Presidents
+"1981-01-20":
+    - headline: "🇺🇸 Reagan inaugurated"
+"1989-01-20":
+    - headline: "🇺🇸 GH Bush inaugurated"
+"1993-01-20":
+    - headline: "🇺🇸 Clinton inaugurated"
+"2001-01-20":
+    - headline: "🇺🇸 GW Bush inaugurated"
+"2009-01-20":
+    - headline: "🇺🇸 Obama inaugurated"
+"2017-01-20":
+    - headline: "🇺🇸 Trump inaugurated"
+"2021-01-20":
+    - headline: "🇺🇸 Biden inaugurated"
+"2025-01-20":
+    - headline: "🇺🇸 Trump inaugurated"
