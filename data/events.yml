@@ -115,6 +115,10 @@
     - headline: "🏰 Disney World"
       description: "Family vacation to Disney World"
 
+"2015-07-17":
+    - headline: "😎 Dallas Fort Worth"
+      description: "Family vacation to Dallas Fort Worth"
+
 "2015-08-22":
     - headline: "🗽 NYC"
       description: "Visited NYC with friends"
@@ -131,6 +135,10 @@
     - headline: "🏞️ Wisconsin Dells"
       description: "Family vacation to Wisconsin Dells"
 
+"2019-06-10":
+    - headline: "🏴󠁧󠁢󠁳󠁣󠁴󠁿 Scotland"
+      description: "Trip with E to Scotland"
+
 "2020-11-27":
     - headline: "🏰 Disney World"
       description: "Family vacation to Disney World"
@@ -146,6 +154,14 @@
 "2022-11-24":
     - headline: "🏰 Disney World"
       description: "Family vacation to Disney World"
+
+"2024-03-31":
+    - headline: "😎 Dallas Fort Worth"
+      description: "Family vacation to Dallas Fort Worth"
+
+"2024-06-09":
+    - headline: "🇸🇻 El Salvador"
+      description: "Trip to El Salvador with S"
 
 "2024-10-13":
     - headline: "🏰 Disney World"
