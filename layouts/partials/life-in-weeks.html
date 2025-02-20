@@ -116,7 +116,7 @@ There are three main loops in this page, each nested inside the other: Years, We
                 {{ $buttonClass := printf "btn week %s %s w-100" ($.Store.Get "basedClass") ($.Store.Get "doingClass") }}
                 {{ $.Store.Set "buttonClass" $buttonClass }}
                 {{ $.Store.Set "buttonDataDate" $thisWeekDate }}
-                {{ $buttonDataBSTitle := (printf "%s – %s%s%s, based in %s"
+                {{ $buttonDataBSTitle := (printf "%s – %s%s%s, in %s"
                     (dateFormat "Jan 2, 2006" $thisWeekDate)
                     ($.Store.Get "doing")
                     (cond (ne ($.Store.Get "association") "") " at " "")
@@ -169,7 +169,7 @@ There are three main loops in this page, each nested inside the other: Years, We
                             {{ if ne .description nil }}
                                 {{ $.Store.Set "buttonDataBSTitle" (printf "%s – %s" (dateFormat "Jan 2, 2006" $specDate ) .description ) }}
                             {{ else }}
-                                {{ $.Store.Set "buttonDataBSTitle" (printf "%s – %s%s%s, based in %s"
+                                {{ $.Store.Set "buttonDataBSTitle" (printf "%s – %s%s%s, in %s"
                                     (dateFormat "Jan 2, 2006" $specDate)
                                     ($.Store.Get "doing")
                                     (cond (ne ($.Store.Get "association") "") " at " "")
